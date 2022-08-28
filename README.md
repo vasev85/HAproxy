@@ -35,7 +35,7 @@ RR --обращение идет по кругу (циклу)
 
 *Приведите скриншот systemctl status haproxy, где будет видно, что haproxy запущен*
 
-![alt text](https://github.com/vasev85/HAproxy/blob/main/ex1.png?raw=true) 
+![alt text](https://github.com/vasev85/HAproxy/blob/main/ex3.png?raw=true) 
 ---
 
 ### Задание 4.
