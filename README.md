@@ -43,6 +43,7 @@ RR --обращение идет по кругу (циклу)
 Установите и запустите nginx.
 
 *Приведите скриншот systemctl status nginx, где будет видно, что nginx запущен*
+![alt text](https://github.com/vasev85/HAproxy/blob/main/ex4.png?raw=true) 
 
 ---
 
@@ -57,7 +58,7 @@ RR --обращение идет по кругу (циклу)
 "nginx is configured correctly"
 
 *Приведите скриншот получившейся конфигурации*
-
+![alt text](https://github.com/vasev85/HAproxy/blob/main/ex5.png?raw=true) ![alt text](https://github.com/vasev85/HAproxy/blob/main/ex5-1.png?raw=true) 
 ---
 
 ## Дополнительные задания (со звездочкой*)
@@ -77,3 +78,4 @@ RR --обращение идет по кругу (циклу)
 "nginx is configured correctly". 
 
 *Приведите скриншот получившейся конфигурации*
+![alt text](https://github.com/vasev85/HAproxy/blob/main/ex6.png?raw=true) 
